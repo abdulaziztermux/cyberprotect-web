@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <title>Cyber Protect | Official Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="video-bg">
+        <video autoplay muted loop playsinline>
+            <source src="https://assets.mixkit.co/videos/preview/mixkit-digital-animation-of-binary-code-and-data-28350-large.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <div class="main-container">
+        <img src="logo.png" alt="Cyber Protect Logo" class="main-logo">
+        <h1 class="huge-title">CYBER PROTECT</h1>
+        <p class="tagline">CYBER ETHICS ORGANISATION</p>
+
+        <div class="mission-box">
+            <p>"মতপ্রকাশের স্বাধীনতা সবার মৌলিক অধিকার, তবে সেই স্বাধীনতার আড়ালে অনৈতিকতা ও অশ্লীলতা ছড়ানোর কোনো সুযোগ নেই, আমরা চাই মানুষ যেন নিরাপদ, দায়িত্বশীল ও সম্মানজনকভাবে ডিজিটাল প্ল্যাটফর্ম ব্যবহার করতে পারে..!"</p>
+        </div>
+
+        <div class="master-panel">
+            <h2>MASTER PANEL</h2>
+            <div class="panel-grid">
+                <div class="member">
+                    <img src="samiul.jpg">
+                    <h3>Md. Samiul Islam</h3>
+                    <p>Founding Creator</p>
+                </div>
+                <div class="member">
+                    <img src="aziz.jpg">
+                    <h3>Abdul Aziz</h3>
+                    <p>Co-Founder & CEO</p>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>Established: 17/Jan/2019 | Email: cyberprotect.cp@gmail.com</p>
+            <p>"Cyber Protect Fight and Stand for The Truth"</p>
+        </footer>
+    </div>
+</body>
+</html>
